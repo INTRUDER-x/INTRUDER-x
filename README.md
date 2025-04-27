@@ -62,6 +62,13 @@
 
 <br><br>
 
+
+<h2 align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+INTRUDER-X;I'm+a+student+in+SRI+LANKA.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+
+
+
 ---
 
 Credit: [INTRUDER -X ](https://github.com/INTRUDER-x)
