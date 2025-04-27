@@ -1,10 +1,10 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px></p>
 
 
 <div align="center">
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="80" width="200%">
 
   
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=𝗛𝗘𝗟𝗟𝗢➩+𝗜+𝗔𝗠+𝗜𝗡𝗧𝗥𝗨𝗗𝗘𝗥+-𝗫)](https://git.io/typing-svg)
@@ -47,6 +47,20 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+
+
+
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=INTRUDER-x\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=INTRUDER-x&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
 
 ---
 
